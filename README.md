@@ -1,4 +1,4 @@
-# Salesforce DX Project: Gestion de Contactos para Global 66
+# Salesforce DX Project: Gestion de Contactos
 
 El objetivo de este Readme es explicar la funcionalidad expuesta para el componente personalizado c/gestionContactos.
 
